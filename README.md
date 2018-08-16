@@ -1,10 +1,13 @@
+https://gun.eco/docs/Simple-introduction-to-graph-data-structures
+
 # All about souls
 
-And a summary of gun's graph architecture
+And a summary of GunDB's graph architecture
 
 But first..
 
 # Why gun?
+
 It's a realtime, decentralized, offline-first, graph database that's as fast as light. 
 
 Android phone, ~5M ops/sec.
@@ -110,3 +113,6 @@ g.get('rtpengine').get('hep-rtcp').put(g.get('homer'));
 
 ### Credit
 This Demo is based on [serve-gun](https://github.com/JosePedroDias/serve-gundb)
+
+### Don't go here:
+https://gun.eco/docs/AXE (https://gun.eco/docs/AXE)
